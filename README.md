@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Javairia (JaVi) 👋</h1>
-<h3 align="center">Software Engineer in the making — building toward Software Architecture in the AI era</h3>
+<h1 align="center">Hi, I'm JaVaiRia LaTeeF (JaVi) 👋</h1>
+<h3 align="center">Software Engineer — building toward Software Architecture in the AI era</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+COMSATS+Lahore;Backend-leaning+%7C+Node.js+%2F+Express+%2F+FastAPI;Building+scalable+systems%2C+one+API+at+a+time;Aspiring+Software+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+COMSATS+Lahore;Backend-leaning+%7C+Node.js+%2F+Express+%2F+FastAPI;Building+scalable+systems;Aspiring+Software+Architect" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -53,19 +53,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JaVi080&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaVi080&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaVi080&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
